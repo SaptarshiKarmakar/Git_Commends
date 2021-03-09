@@ -1,0 +1,14 @@
+1.  git --version				-----------------------[To check the version of Git]
+2.  git status					-----------------------[To check Git repository or not / Stage or not / Commit or not]
+3.  git init					-----------------------[To set this folder as a Git Repository]
+4.  git add .					-----------------------[All files will be Stage]
+5.  git add filename.doc			-----------------------[Only this file will be staged]
+6.  git commit -m "Message"			-----------------------[It will be Commited & show the changes]
+7.  git log					-----------------------[To see who change, which portion]
+8.  git config --global user.name "Saptarshi"	-----------------------[To change all repositories User Name]
+9.  git config --global user.email "saptarshikarmakar68@gmail.com"  ---[To change all repositories email]
+10. git remote add origin git@github.com:saptarshi....		-------[To add this online/ remote repository for store our code in server]
+	Then you need to add a SSH key by going--> Settings--> SSH and GPG Key--> then follow the steps to generate a new SSH key
+
+11. git push -u origin master			-----------------------[To upload the changes in github/ online repository]
+12. git pull origin master			-----------------------[To pull the changes from github/ online repository]
