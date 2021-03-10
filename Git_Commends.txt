@@ -34,3 +34,4 @@
 27. git merge NewBranchName			-----------------------[It will merge the files of New Branch and Master]
 28. git branch -d NewBranchName			-----------------------[It will delete branch from our Local System]
 29. git push origin --delete NewBranchName	-----------------------[It will delete branch from GitHub]
+30. ls -la					-----------------------[It will show all the directories]
